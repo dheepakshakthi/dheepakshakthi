@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dheepakshakthi.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://dheepakshakthi.github.io/) [![Resume](https://img.shields.io/badge/Resume-Download%20PDF-green?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://dheepakshakthi.github.io/Resume_2026.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-green?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://dheepakshakthi.github.io/Resume_2026.pdf)
 
 </div>
 
@@ -21,11 +21,8 @@ Currently pursuing **B.Tech in Computer Science** with specialization in **Artif
 #### AI / Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-#### Web & Desktop development
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-#### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+#### Application Development (Web, Desktop, Mobile)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 #### Tools & Databases
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
@@ -36,5 +33,9 @@ Currently pursuing **B.Tech in Computer Science** with specialization in **Artif
 
 **AI Research Intern** — HTIC, IIT-M Research Park *(May 2025 – Jun 2025)*
 > Worked in medical imaging for detection and classification of abnormalities in real-time endoscopic video inference. Developed knowledge distillation pipelines and optimized deep learning models for edge devices.
+
+**AI Intern** — INEM Technologies *(December 2025 – January 2026)*
+> Implemented Database and designed pipeline for implementing AI features in an AI assisted Ed-Tech web application platform
+developed using Django.
 
 ---
