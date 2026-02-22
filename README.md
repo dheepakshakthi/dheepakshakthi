@@ -1,16 +1,18 @@
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-green?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://dheepakshakthi.github.io/Resume_2026.pdf)
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
 
 </div>
 
----
-
 ## About Me
 
-Currently pursuing **B.Tech in Computer Science** with specialization in **Artificial Intelligence and Data Analytics**. My passion lies in developing innovative solutions for real-world problems and continuously improving my technical skillset. I thrive in challenging environments and enjoy working on complex systems.
+Currently pursuing B.Tech in Computer Science with specialization in Artificial Intelligence and Data Analytics. My passion lies in developing innovative solutions for real-world problems and continuously improving my technical skillset. I thrive in challenging environments and enjoy working on complex systems.
 
----
+<div align="center">
+
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-green?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://dheepakshakthi.github.io/Resume_2026.pdf)
+
+</div>
 
 ## Tech Stack
 
@@ -27,15 +29,8 @@ Currently pursuing **B.Tech in Computer Science** with specialization in **Artif
 #### Tools & Databases
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
----
-
 ## Experience
 
-**AI Research Intern** — HTIC, IIT-M Research Park *(May 2025 – Jun 2025)*
-> Worked in medical imaging for detection and classification of abnormalities in real-time endoscopic video inference. Developed knowledge distillation pipelines and optimized deep learning models for edge devices.
+**AI Research Intern** — HTIC, IIT-Madras Research Park *(May 2025 – Jun 2025)*
 
 **AI Intern** — INEM Technologies *(December 2025 – January 2026)*
-> Implemented Database and designed pipeline for implementing AI features in an AI assisted Ed-Tech web application platform
-developed using Django.
-
----
