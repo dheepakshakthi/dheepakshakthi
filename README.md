@@ -1,12 +1,6 @@
-<div align="center">
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
-
-</div>
-
 ## About Me
 
-Currently pursuing B.Tech in Computer Science with specialization in Artificial Intelligence and Data Analytics. My passion lies in developing innovative solutions for real-world problems and continuously improving my technical skillset. I thrive in challenging environments and enjoy working on complex systems.
+Currently pursuing B.Tech in Computer Science with specialization in Artificial Intelligence and Data Analytics. Skilled in leveraging technical expertise and creativity for real-world applications. Seeking opportunities to contribute in innovative projects, collaborate with experts, and advance my career in technology. Committed to continuous learning and making a meaningful impact.
 
 <div align="center">
 
