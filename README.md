@@ -3,7 +3,7 @@
 
 ## About Me
 
-Currently pursuing B.Tech in Computer Science with specialization in Artificial Intelligence and Data Analytics. Skilled in leveraging technical expertise and creativity for real-world applications. Seeking opportunities to contribute in innovative projects, collaborate with experts, and advance my career in technology. Committed to continuous learning and making a meaningful impact.
+B.Tech Computer Science Engineering student specializing in AI and Data Analytics with hands-on experience in Machine Learning and full-stack application development. Looking forward to working on enterprise-scale projects and contributing to innovative software engineering solutions.
 
 <div align="center">
 
